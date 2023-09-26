@@ -1,0 +1,5 @@
+int main() {
+    printf("Informe a hora: %d", 12);
+    printf("Informe o valor de pi: %.4f", 3.1415);
+    return 0;
+}
